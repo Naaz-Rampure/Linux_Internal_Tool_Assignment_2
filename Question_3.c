@@ -5,7 +5,7 @@
 
 int main()
 {
- execl("/home/sharwari/asign_3", "./assign_ps_3", 0);
+ execl("/home/sharwari/Assignment2_3_asign", "./assign_ps_3", 0);
 
  return 0;
 }
